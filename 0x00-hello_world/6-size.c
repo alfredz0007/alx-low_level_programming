@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-/**
+ /**
  * main - print the string in the put function
  * Descriptin: using the main function
  * this program prints "Programming is like building a multilingual puzzle 
  * Return: 0
  */
-intt main(void)
+int main(void)
 {   
 	char c;
 	int i;
