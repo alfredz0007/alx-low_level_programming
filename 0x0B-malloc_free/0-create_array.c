@@ -5,11 +5,11 @@
  * intialises it with a specific char.
  *@size: size of the array
  *@c: Character to insert
- *Return: NULL if the size is zero or if false
+ *Return: NULL if the size is zero or if fails.
  *pointer to array if everything is normal.
  */
 
-char *create_array(unsigned int size, char c)
+char *create_array(unsigned int size, char c);
 {
 	char *array;
 	unsigned int index;
