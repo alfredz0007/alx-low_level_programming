@@ -19,4 +19,5 @@ void print_opcodes(char *a, int n)
 			printf(" ");
 	}
 	printf("\n");
+
 }
